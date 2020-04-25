@@ -10,6 +10,7 @@ W3.CSS Pro Colors
 With W3.CSS pro you can define your own colors:
 
 Example
+```
 <!DOCTYPE html>
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,16 +24,19 @@ Example
 
 </body>
 </html>
+```
 You can define your colors inline with a <style> tag:
 
 Example
+```
 <style>
 .w3-amber{color:#000!important;background-color:#ffc107!important}
 </style>
-
+```
 Or you can load your own themes:
 
 Example
+```
 <link rel="stylesheet" href="/lib/w3-theme-amber.css">
-
+```
 
