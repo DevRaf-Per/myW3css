@@ -4,7 +4,7 @@ Official framework added by author Jan Egil Refsnes.***
 
 Tutorials at https://www.w3schools.com/w3css
 
-Version 4 of w3.css comes with a professional version: W3.CSS Pro.
+## Version 4 of w3.css comes with a professional version: W3.CSS Pro.
 
 The pro version is identical to the standard version except for it has no colors defined.
 
